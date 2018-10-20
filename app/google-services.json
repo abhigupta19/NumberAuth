@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "690679910612",
+    "firebase_url": "https://winters-823d8.firebaseio.com",
+    "project_id": "winters-823d8",
+    "storage_bucket": "winters-823d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690679910612:android:4d88ee4e75be31c4",
+        "android_client_info": {
+          "package_name": "com.example.user.winters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690679910612-0is9ostbpvafalsd08plomhgec2aptta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.winters",
+            "certificate_hash": "975828094da15f1221372e40e994acd3d969685f"
+          }
+        },
+        {
+          "client_id": "690679910612-bqoj76d9e7eal9mrqccns2b82d4ih41m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTuTS9Ca_Rt6hBKN8TRv2SNhHu5OR_fho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690679910612-bqoj76d9e7eal9mrqccns2b82d4ih41m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
